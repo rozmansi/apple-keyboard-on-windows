@@ -9,6 +9,8 @@ Ready-to-use keyboard layout installers can be [downloaded here](https://github.
 
 ## Known Limitations
 
-1. The modifier accents `AltGr+E`,  `AltGr+U`, `AltGr+I`, `AltGr+N` etc. are not modifier Unicode characters (combine with the next character), as modifier characters are not available for all accents required on the keyboard. The composing Unicode characters are used instead. This means that the accent character should be typed after the main character (not before it like on macOS).
+1. For typing alternative characters, use the **right** `Option` key. The right `Option` key equivalents to `AltGr` on PC keyboards and appears to be the only way to type `Alt`ernative characters.
 
-2. `AltGr+Shift+K` does not type the Apple logo. The Apple glyph is not Unicode standard.
+2. The modifier accents `Option+E`,  `Option+U`, `Option+I`, `Option+N` etc. are not modifier Unicode characters (combine with the next character), as modifier characters are not available for all accents required on the keyboard. The composing Unicode characters are used instead. This means that the accent character should be typed after the main character (not before it like on macOS).
+
+3. `Option+Shift+K` does not type the Apple logo. The Apple glyph is not Unicode standard.
