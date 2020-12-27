@@ -16,3 +16,5 @@ Ready-to-use keyboard layout installers can be [downloaded here](https://github.
 3. The inverted breve is not available as a standalone Unicode character. The `ROption+K` modifier works for letters AEIORU thou. For other letters, including space, it inserts the composing inverted breve character resulting in the accent mark applied to the previous letter, instead of the next.
 
 4. `ROption+Shift+K` does not type the Apple logo. The Apple glyph is not a Unicode character.
+
+5. Microsoft Keyboard Layout Creator will error if the keyboard being compiled is already installed.
