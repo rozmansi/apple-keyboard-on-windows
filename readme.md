@@ -18,3 +18,5 @@ Ready-to-use keyboard layout installers can be [downloaded here](https://github.
 4. `ROption+Shift+K` does not type the Apple logo. The Apple glyph is not a Unicode character.
 
 5. Microsoft Keyboard Layout Creator will error if the keyboard being compiled is already installed.
+
+6. Microsoft Keyboard Layout Creator created installer does not support updating. Previous version of the keyboard must be uninstalled before the new version is installed.
