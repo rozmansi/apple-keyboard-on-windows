@@ -11,6 +11,8 @@ Ready-to-use keyboard layout installers can be [downloaded here](https://github.
 
 1. For typing alternative characters, use the **right** `Option` key. The `ROption` key equivalents to `AltGr` on PC keyboards and appears to be the only way to type `Alt`ernative characters.
 
-2. The modifier accents `ROption+E`,  `ROption+U`, `ROption+I`, `ROption+N` etc. are not modifier Unicode characters (combine with the next character), as modifier characters are not available for all accents required on the keyboard. The composing Unicode characters are used instead. This means that the accent character should be typed after the main character (not before it like on macOS).
+2. The double grave is not available as a standalone Unicode character. The `ROption+H` modifier works for letters AEIORU thou. For other letters, including space, it inserts the composing double grave character resulting in the accent mark applied to the previous letter, instead of the next.
 
-3. `ROption+Shift+K` does not type the Apple logo. The Apple glyph is not Unicode standard.
+3. The inverted breve is not available as a standalone Unicode character. The `ROption+K` modifier works for letters AEIORU thou. For other letters, including space, it inserts the composing inverted breve character resulting in the accent mark applied to the previous letter, instead of the next.
+
+4. `ROption+Shift+K` does not type the Apple logo. The Apple glyph is not a Unicode character.
