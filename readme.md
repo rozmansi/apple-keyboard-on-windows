@@ -1,6 +1,6 @@
 # Croatian/Slovenian Apple Magic Keyboard Layout for Windows
 
-The Apple Magic Keyboards have different key layout than standard Croatian and Slovenian QWERTZ keyboards used with PC computers. Windows 10 includes only some of the Apple keyboard localized layouts. Unfortunately, not Croatian and Slovenian. Fortunately, one can create a keyboard layout using free Microsoft Keyboard Layout Creator utility, downloadable from the Microsoft website.
+The Apple Magic Keyboards have different key layout than standard Croatian and Slovenian QWERTZ keyboards used with PC computers. Apple drivers for Windows 10 include only some of the Apple keyboard localized layouts. Unfortunately, not Croatian and Slovenian. Fortunately, one can create a keyboard layout using free Microsoft Keyboard Layout Creator utility, downloadable from the Microsoft website.
 
 Croatian and Slovenian Apple Magic Keyboards are identical. However, they do require separate keyboard layouts on Windows as they are bound to specific locale ID.
 
